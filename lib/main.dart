@@ -76,7 +76,7 @@ class HomePage extends StatelessWidget {
               print("i am inkweel");
             } ,
             onTap: (){
-              print("i am inkweel   dfd");
+              print("i am inkweel");
             },
 
       child:  Container(
